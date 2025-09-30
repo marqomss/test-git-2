@@ -9,6 +9,9 @@
 
 <body>
   <h1>Hello World!</h1>
+  <ul>
+    <li>Laravel</li>
+  </ul>
   <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusamus inventore eligendi dolorum, ex dolor culpa vel delectus quod magnam aspernatur iste! Recusandae dignissimos laudantium cupiditate aperiam quia ratione adipisci odit.</p>
 </body>
 
